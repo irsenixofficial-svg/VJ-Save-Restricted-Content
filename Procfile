@@ -1,5 +1,5 @@
-# Don't Remove Credit @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit 𝙄𝙍𝙎𝙀𝙉𝙄𝙓
+# Subscribe YouTube Channel For Amazing Bot
+# Ask Doubt on telegram
 
 worker: python3 bot.py
