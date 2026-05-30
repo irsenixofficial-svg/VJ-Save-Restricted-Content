@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - 𝙄𝙍𝙎𝙀𝙉𝙄𝙓
+# Subscribe YouTube Channel For Amazing Bot
+# Ask Doubt on telegram
 
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from database.db import db
